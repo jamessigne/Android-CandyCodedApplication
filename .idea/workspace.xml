@@ -65,7 +65,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -92,6 +92,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -173,6 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -197,12 +214,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602595001314</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Start the google maps activity">
+      <created>1602595542559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602595542559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start the store information activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start the store information activity" />
+    <MESSAGE value="Start the google maps activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start the google maps activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1044" y="232" width="374" height="570" key="#com.intellij.ide.util.MemberChooser" timestamp="1602594847624">
@@ -213,29 +238,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1085" y="412" width="293" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602594116975" />
-    <state x="768" y="119" width="926" height="797" key="CommitChangelistDialog2" timestamp="1602595001113">
+    <state x="768" y="119" width="926" height="797" key="CommitChangelistDialog2" timestamp="1602595542406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="768" y="119" width="926" height="797" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602595001113" />
-    <state width="1251" height="276" key="GridCell.Tab.0.bottom" timestamp="1602595523371">
+    <state x="768" y="119" width="926" height="797" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602595542406" />
+    <state width="1251" height="276" key="GridCell.Tab.0.bottom" timestamp="1602595804175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602595523371" />
-    <state width="1251" height="276" key="GridCell.Tab.0.center" timestamp="1602595523370">
+    <state width="1251" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602595804175" />
+    <state width="1251" height="276" key="GridCell.Tab.0.center" timestamp="1602595804175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602595523370" />
-    <state width="1251" height="276" key="GridCell.Tab.0.left" timestamp="1602595523369">
+    <state width="1251" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602595804175" />
+    <state width="1251" height="276" key="GridCell.Tab.0.left" timestamp="1602595804174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602595523369" />
-    <state width="1251" height="276" key="GridCell.Tab.0.right" timestamp="1602595523370">
+    <state width="1251" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602595804174" />
+    <state width="1251" height="276" key="GridCell.Tab.0.right" timestamp="1602595804175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1251" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602595523370" />
-    <state x="831" y="256" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1602595014403">
+    <state width="1251" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602595804175" />
+    <state x="831" y="256" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1602595549271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="831" y="256" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602595014403" />
+    <state x="831" y="256" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602595549271" />
   </component>
 </project>
